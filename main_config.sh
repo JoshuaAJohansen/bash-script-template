@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+API_BASE_URL="http://127.0.0.1"
+API_PORT="5000"
+API_SUFFIX="/user"
+API_FULL_URL="${API_BASE_URL}:${API_PORT}${API_SUFFIX}"
