@@ -48,9 +48,7 @@ Jetbrains IDEs have the option to install [Shellcheck](https://shellcheck.net) a
 [ExplainShell](https://explainshell.com/) - to explain what a line of shell code does.
 
 ## Further Research
-If you are searching beyond what is found in this repo consider checking out https://bash3boilerplate.sh/ and exploring their main.sh.
-They are solving some problems that may be beyond everyones use case, and so I think this is a good starting point.
-```
-wget http://bash3boilerplate.sh/main.sh
-vim main.sh
-```
+If you are searching beyond what is found in this repo consider checking out https://bash3boilerplate.sh/ and exploring their main.sh and features included in their script.
+They are solving some problems that may be beyond everyones use case, and so I think this is a good starting point. If you are looking for color, scripts that follow [12 factors](https://12factor.net/), etc., then check them out.
+
+Best of luck out there!
